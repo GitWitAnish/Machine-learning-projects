@@ -1,6 +1,6 @@
 # 🚀 Machine Learning Projects — My Ongoing Struggle with Algorithms 😅
 
-![Wut huh?](https://media.tenor.com/images/1674f7ca3eb49c62e4d0514a7124c76f/tenor.gif)
+![Wut huh?](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5vNzJ0NGowNGZ6OWd1d2N6MWpnNnY5bnhtb3EwemYwYjd0eTB1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.gif)
 
 Hey! 👋
 
