@@ -1,8 +1,6 @@
-# 🚀 Machine Learning Projects — My Ongoing Struggle with Algorithms 😅
+#  Machine Learning Projects — My Ongoing Struggle with Algorithms 
 
-![Wut huh?](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5vNzJ0NGowNGZ6OWd1d2N6MWpnNnY5bnhtb3EwemYwYjd0eTB1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.gif)
-
-Hey! 👋
+Hey! 
 
 Welcome to my machine learning projects repo — a curated collection of everything I’ve built while diving into the world of ML.  
 This space tracks my progress, experiments, and lessons learned, from the basics to more advanced stuff.
